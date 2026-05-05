@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T17:50:05+03:00",
+  "updated_at": "2026-05-05T21:10:53+03:00",
   "licenses": {
     "lic_20260505_f5c493dcf5": {
       "status": "active",
@@ -9,11 +9,14 @@
       "customer": "stock-TG7-1"
     },
     "lic_20260505_9896796c81": {
-      "status": "active",
+      "status": "paused",
       "plan": "TG7",
       "expires_at": "2026-05-12T13:21:29+03:00",
       "hwid": "d0d4c7f97ea41053ca2c92c9",
-      "customer": "stock-TG7-2"
+      "customer": "stock-TG7-2",
+      "status_before_pause": "active",
+      "paused_at": "2026-05-05T21:10:53+03:00",
+      "pause_reason": "Пауза підписки власником TG AUTO"
     },
     "lic_20260505_883ab4ead5": {
       "status": "active",
