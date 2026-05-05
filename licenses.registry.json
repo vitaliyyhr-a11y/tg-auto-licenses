@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T21:40:41+03:00",
+  "updated_at": "2026-05-05T21:42:23+03:00",
   "licenses": {
     "lic_20260505_f5c493dcf5": {
       "status": "active",
@@ -715,7 +715,7 @@
       "customer": "Пісюнчік",
       "status_before_pause": "active",
       "paused_at": "2026-05-05T21:40:34+03:00",
-      "resumed_at": "2026-05-05T21:40:41+03:00"
+      "resumed_at": "2026-05-05T21:42:23+03:00"
     }
   },
   "revoked": []
