@@ -702,7 +702,7 @@
       "customer": "stock-TGLIFE-20"
     },
     "lic_20260505_5e1d0895d4": {
-      "status": "off",
+      "status": "active",
       "plan": "TG7",
       "expires_at": "2026-05-12T17:50:05+03:00",
       "hwid": "396d15f35c56ebb1ef83fd88",
