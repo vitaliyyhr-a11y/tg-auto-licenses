@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T13:21:46+03:00",
+  "updated_at": "2026-05-05T17:50:05+03:00",
   "licenses": {
     "lic_20260505_f5c493dcf5": {
       "status": "active",
@@ -700,6 +700,13 @@
       "expires_at": "2126-04-11T13:21:46+03:00",
       "hwid": null,
       "customer": "stock-TGLIFE-20"
+    },
+    "lic_20260505_5e1d0895d4": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T17:50:05+03:00",
+      "hwid": "396d15f35c56ebb1ef83fd88",
+      "customer": "Пісюнчік"
     }
   },
   "revoked": []
