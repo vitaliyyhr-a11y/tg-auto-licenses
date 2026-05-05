@@ -1,0 +1,706 @@
+{
+  "updated_at": "2026-05-05T13:21:46+03:00",
+  "licenses": {
+    "lic_20260505_f5c493dcf5": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:29+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-1"
+    },
+    "lic_20260505_9896796c81": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:29+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-2"
+    },
+    "lic_20260505_883ab4ead5": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:29+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-3"
+    },
+    "lic_20260505_5e7ece9138": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:29+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-4"
+    },
+    "lic_20260505_4e34b9ee36": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:30+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-5"
+    },
+    "lic_20260505_f6101f9585": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:30+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-6"
+    },
+    "lic_20260505_cd6bdf8f7e": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:30+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-7"
+    },
+    "lic_20260505_05ee4ec040": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:30+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-8"
+    },
+    "lic_20260505_ca18e9d20f": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:30+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-9"
+    },
+    "lic_20260505_dcb8e46654": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:30+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-10"
+    },
+    "lic_20260505_60552958af": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:31+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-11"
+    },
+    "lic_20260505_6ad9d63d21": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:31+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-12"
+    },
+    "lic_20260505_6eb7ec9389": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:31+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-13"
+    },
+    "lic_20260505_b239cf6c3b": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:31+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-14"
+    },
+    "lic_20260505_f794cdacba": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:31+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-15"
+    },
+    "lic_20260505_3fd0a418d9": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:31+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-16"
+    },
+    "lic_20260505_361ca2c1a3": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:32+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-17"
+    },
+    "lic_20260505_e06ab13029": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:32+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-18"
+    },
+    "lic_20260505_975730d659": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:32+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-19"
+    },
+    "lic_20260505_64cbc02166": {
+      "status": "active",
+      "plan": "TG7",
+      "expires_at": "2026-05-12T13:21:32+03:00",
+      "hwid": null,
+      "customer": "stock-TG7-20"
+    },
+    "lic_20260505_5d691c79a3": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:32+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-1"
+    },
+    "lic_20260505_e9efb083e7": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:32+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-2"
+    },
+    "lic_20260505_f5f03a1abe": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:33+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-3"
+    },
+    "lic_20260505_f5cbc235b0": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:33+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-4"
+    },
+    "lic_20260505_06b2228a61": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:33+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-5"
+    },
+    "lic_20260505_e344007ae8": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:33+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-6"
+    },
+    "lic_20260505_06d0ffcacf": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:33+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-7"
+    },
+    "lic_20260505_f797529ba6": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:33+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-8"
+    },
+    "lic_20260505_26345a2b78": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:34+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-9"
+    },
+    "lic_20260505_8207978f3a": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:34+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-10"
+    },
+    "lic_20260505_9a4de475a6": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:34+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-11"
+    },
+    "lic_20260505_91da5bf548": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:34+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-12"
+    },
+    "lic_20260505_96498222f9": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:34+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-13"
+    },
+    "lic_20260505_b592e17a6e": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:34+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-14"
+    },
+    "lic_20260505_b004a328ff": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:35+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-15"
+    },
+    "lic_20260505_e9357bb7d1": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:35+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-16"
+    },
+    "lic_20260505_9086001b19": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:35+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-17"
+    },
+    "lic_20260505_da61f06c0a": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:35+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-18"
+    },
+    "lic_20260505_c497f72bcc": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:35+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-19"
+    },
+    "lic_20260505_2a12a7e9ba": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-04T13:21:35+03:00",
+      "hwid": null,
+      "customer": "stock-TG30-20"
+    },
+    "lic_20260505_77a9dfc599": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:36+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-1"
+    },
+    "lic_20260505_75ddfe60fd": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:36+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-2"
+    },
+    "lic_20260505_9603e65ef8": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:36+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-3"
+    },
+    "lic_20260505_8d00627bf9": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:36+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-4"
+    },
+    "lic_20260505_1a0322a7ab": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:36+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-5"
+    },
+    "lic_20260505_ba25eaf149": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:36+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-6"
+    },
+    "lic_20260505_a239e2c8d3": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:37+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-7"
+    },
+    "lic_20260505_c992660eea": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:37+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-8"
+    },
+    "lic_20260505_d59ce26398": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:37+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-9"
+    },
+    "lic_20260505_e2190551f0": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:37+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-10"
+    },
+    "lic_20260505_aeda7f0b15": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:37+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-11"
+    },
+    "lic_20260505_a19e9822f2": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:38+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-12"
+    },
+    "lic_20260505_a68ab1cde1": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:38+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-13"
+    },
+    "lic_20260505_ac41aa1ceb": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:38+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-14"
+    },
+    "lic_20260505_60898967cd": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:38+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-15"
+    },
+    "lic_20260505_7b573ed735": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:38+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-16"
+    },
+    "lic_20260505_0947deb221": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:38+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-17"
+    },
+    "lic_20260505_6acfbeeff2": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:39+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-18"
+    },
+    "lic_20260505_11cb12d2bd": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:39+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-19"
+    },
+    "lic_20260505_c238d897bf": {
+      "status": "active",
+      "plan": "TG90",
+      "expires_at": "2026-08-03T13:21:39+03:00",
+      "hwid": null,
+      "customer": "stock-TG90-20"
+    },
+    "lic_20260505_c0fe53bf5a": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:39+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-1"
+    },
+    "lic_20260505_18ae4270bd": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:39+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-2"
+    },
+    "lic_20260505_abbbaf62a5": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:39+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-3"
+    },
+    "lic_20260505_c9af0fdc2d": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:40+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-4"
+    },
+    "lic_20260505_338d04aa48": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:40+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-5"
+    },
+    "lic_20260505_034e326962": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:40+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-6"
+    },
+    "lic_20260505_ec902a4920": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:40+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-7"
+    },
+    "lic_20260505_38bb970f90": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:40+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-8"
+    },
+    "lic_20260505_a6f32c4ee0": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:40+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-9"
+    },
+    "lic_20260505_52f1db0c3b": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:41+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-10"
+    },
+    "lic_20260505_2573094a1e": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:41+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-11"
+    },
+    "lic_20260505_523da5a731": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:41+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-12"
+    },
+    "lic_20260505_ecd2ddbb23": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:41+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-13"
+    },
+    "lic_20260505_8d3d90f781": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:41+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-14"
+    },
+    "lic_20260505_812f8aa6f0": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:41+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-15"
+    },
+    "lic_20260505_e0630dcb0c": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:42+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-16"
+    },
+    "lic_20260505_e42fd52086": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:42+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-17"
+    },
+    "lic_20260505_74032d2b90": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:42+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-18"
+    },
+    "lic_20260505_c31d16dc07": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:42+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-19"
+    },
+    "lic_20260505_97e7bf12ed": {
+      "status": "active",
+      "plan": "TG365",
+      "expires_at": "2027-05-05T13:21:42+03:00",
+      "hwid": null,
+      "customer": "stock-TG365-20"
+    },
+    "lic_20260505_71a9846fd5": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:42+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-1"
+    },
+    "lic_20260505_a9e9f9baad": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:43+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-2"
+    },
+    "lic_20260505_c9fa56d793": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:43+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-3"
+    },
+    "lic_20260505_f6b6ad2a7d": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:43+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-4"
+    },
+    "lic_20260505_a8959ad1bd": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:43+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-5"
+    },
+    "lic_20260505_8033534972": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:43+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-6"
+    },
+    "lic_20260505_fb3a0c50fd": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:43+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-7"
+    },
+    "lic_20260505_16c6771769": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:44+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-8"
+    },
+    "lic_20260505_22d2fd487d": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:44+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-9"
+    },
+    "lic_20260505_3a01c70f08": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:44+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-10"
+    },
+    "lic_20260505_5bdc2f84c3": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:44+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-11"
+    },
+    "lic_20260505_2df8813f59": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:44+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-12"
+    },
+    "lic_20260505_1d6f4999da": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:44+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-13"
+    },
+    "lic_20260505_d3c49a2a04": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:45+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-14"
+    },
+    "lic_20260505_02fe3a21d1": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:45+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-15"
+    },
+    "lic_20260505_ae8a1c2c7a": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:45+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-16"
+    },
+    "lic_20260505_46895eff6e": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:45+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-17"
+    },
+    "lic_20260505_14ec92a5c6": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:45+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-18"
+    },
+    "lic_20260505_4e997740ee": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:45+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-19"
+    },
+    "lic_20260505_c41c0d8b91": {
+      "status": "active",
+      "plan": "TGLIFE",
+      "expires_at": "2126-04-11T13:21:46+03:00",
+      "hwid": null,
+      "customer": "stock-TGLIFE-20"
+    }
+  },
+  "revoked": []
+}
