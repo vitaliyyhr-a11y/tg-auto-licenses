@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T21:59:27+03:00",
+  "updated_at": "2026-05-13T13:52:02+03:00",
   "licenses": {
     "lic_20260505_f5c493dcf5": {
       "status": "active",
@@ -716,6 +716,13 @@
       "status_before_pause": "active",
       "paused_at": "2026-05-05T21:58:11+03:00",
       "resumed_at": "2026-05-05T21:59:27+03:00"
+    },
+    "lic_20260513_94db19fc23": {
+      "status": "active",
+      "plan": "TG30",
+      "expires_at": "2026-06-12T13:52:02+03:00",
+      "hwid": "396d15f35c56ebb1ef83fd88",
+      "customer": "Тарсік 2"
     }
   },
   "revoked": []
